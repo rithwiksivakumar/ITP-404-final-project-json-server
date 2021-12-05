@@ -6,6 +6,20 @@
       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/2018_McLaren_720S_V8_S-A_4.0.jpg/2880px-2018_McLaren_720S_V8_S-A_4.0.jpg",
       "horsepower": 710,
       "weight": 3130
+    },
+    {
+      "id": "1",
+      "name": "BMW M3 Competition",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/BMW_M3_Competition_%28G80%29_IMG_4041.jpg/2880px-BMW_M3_Competition_%28G80%29_IMG_4041.jpg",
+      "horsepower": 503,
+      "weight": 3890
+    },
+    {
+      "id": "2",
+      "name": "Audi RS5",
+      "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/2020-audi-rs5-coupe-101-1575990096.jpg?crop=0.821xw:0.692xh;0.00481xw,0.156xh&resize=2048:*",
+      "horsepower": 444,
+      "weight": 3990
     }
   ]
 }
