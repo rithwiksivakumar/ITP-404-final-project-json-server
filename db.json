@@ -16,10 +16,26 @@
     },
     {
       "id": "2",
-      "name": "Audi RS5",
-      "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/2020-audi-rs5-coupe-101-1575990096.jpg?crop=0.821xw:0.692xh;0.00481xw,0.156xh&resize=2048:*",
-      "horsepower": 444,
-      "weight": 3990
+      "name": "Audi RS4",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/8/88/Audi_RS4_Avant_grey_Free_Car_Picture_-_Give_Credit_Via_Link_%28cropped%29.jpg",
+      "horsepower": 420,
+      "weight": 3957
+    }
+  ],
+  "motorcycles": [
+    {
+      "id": "0",
+      "name": "Kawasaki Ninja 650",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Kawasaki_ER-6.jpg",
+      "displacement": 649,
+      "weight": 419
+    },
+    {
+      "id": "1",
+      "name": "BMW S1000RR",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/BMW_S1000_RR_Studio.JPG/600px-BMW_S1000_RR_Studio.JPG",
+      "displacement": 999,
+      "weight": 434
     }
   ]
 }
