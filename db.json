@@ -43,13 +43,13 @@
       "id": "0",
       "author": "Joe Smith",
       "text": "I wish we had a section for racecars",
-      "timestamp": "2021-12-06T03:29:04.571Z"
+      "timestamp": 1638762717386
     },
     {
       "id": "1",
       "author": "Sarah",
       "text": "Nice Collection of automobiles",
-      "timestamp": "2021-12-06T03:32:32.038Z"
+      "timestamp": 1638762726197
     }
   ]
 }
