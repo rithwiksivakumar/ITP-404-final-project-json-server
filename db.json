@@ -5,7 +5,21 @@
       "name": "McLaren 720S",
       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/2018_McLaren_720S_V8_S-A_4.0.jpg/2880px-2018_McLaren_720S_V8_S-A_4.0.jpg",
       "horsepower": 710,
-      "weight": 3130
+      "weight": 3130,
+      "comments": [
+        {
+          "id": "0",
+          "author": "Joe Smith",
+          "text": "I want that car!",
+          "timestamp": "2021-12-06T03:29:04.571Z"
+        },
+        {
+          "id": "1",
+          "author": "Sarah",
+          "text": "Nice Car",
+          "timestamp": "2021-12-06T03:32:32.038Z"
+        }
+      ]
     },
     {
       "id": "1",
